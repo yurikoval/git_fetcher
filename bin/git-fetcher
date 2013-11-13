@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'git_fetcher'
+GitFetcher::Runner.execute(*ARGV)
