@@ -2,6 +2,8 @@
 
   [http://blog.yurikoval.com/git_fetcher](http://blog.yurikoval.com/git_fetcher)
 
+  [![Gem Version](https://badge.fury.io/rb/git_fetcher.png)](http://badge.fury.io/rb/git_fetcher)
+
 ## Installation
 
     gem install git_fetcher
