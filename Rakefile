@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://blog.yurikoval.com/git_fetcher"
   gem.license = "MIT"
   gem.summary = %Q{Run git fetch on all your projects.}
-  gem.description = %Q{Crawl and find git repos in your directory and perform a fetch on all remote sources.}
+  gem.description = %Q{Perform git fetch on all remote sources in multiple git repos.}
   gem.email = "yuri@yurikoval.com"
   gem.authors = ["Yuri Kovalov"]
   gem.require_paths = ["lib"]
