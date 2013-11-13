@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "bin/git-fetcher",
+    "git_fetcher.gemspec",
     "lib/git_fetcher.rb",
     "lib/git_fetcher/runner.rb",
     "lib/git_fetcher/version.rb",
