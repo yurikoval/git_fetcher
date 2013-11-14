@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = "git_fetcher"
-  s.version = "0.1.0"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Yuri Kovalov"]
-  s.date = "2013-11-13"
-  s.description = "Crawl and find git repos in your directory and perform a fetch on all remote sources."
+  s.date = "2013-11-14"
+  s.description = "Perform git fetch on all remote sources in multiple git repos."
   s.email = "yuri@yurikoval.com"
   s.executables = ["git-fetcher"]
   s.extra_rdoc_files = [
