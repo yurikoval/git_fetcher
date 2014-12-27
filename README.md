@@ -33,3 +33,7 @@ This will fetch and run `git stash`, `git pull --rebase` and `git stash pop` on 
 ## License
 
 MIT
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yurikoval/git_fetcher/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
