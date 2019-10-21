@@ -37,7 +37,6 @@ GEM
       rake
       rdoc
       semver2
-    json (1.8.6)
     jwt (2.2.1)
     mime-types (2.99.3)
     mini_portile2 (2.4.0)
@@ -56,8 +55,7 @@ GEM
     psych (3.1.0)
     rack (2.0.7)
     rake (13.0.0)
-    rdoc (3.12.2)
-      json (~> 1.4)
+    rdoc (6.2.0)
     semver2 (3.4.2)
     shoulda (3.6.0)
       shoulda-context (~> 1.0, >= 1.0.1)
@@ -76,5 +74,5 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.0)
   jeweler (~> 2.3.9)
-  rdoc (~> 3.12)
+  rdoc (~> 6.2)
   shoulda
