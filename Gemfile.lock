@@ -57,7 +57,7 @@ GEM
     racc (1.5.2)
     rack (2.2.3)
     rake (13.0.0)
-    rdoc (6.2.1)
+    rdoc (6.3.0)
     semver2 (3.4.2)
     shoulda (4.0.0)
       shoulda-context (~> 2.0)
@@ -76,5 +76,5 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.0)
   jeweler (~> 2.3.9)
-  rdoc (~> 6.2)
+  rdoc (~> 6.3)
   shoulda
